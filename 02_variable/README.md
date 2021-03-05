@@ -1,1 +1,1 @@
-# Golang_Camp_Again_revision
+# Variable Rules and regulations
