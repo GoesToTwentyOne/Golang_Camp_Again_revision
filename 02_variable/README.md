@@ -13,8 +13,8 @@
 - upper case first letter to export
 - no private scope
 - [x] **Naming conversions**:
-- Pascal or camel case *.
-  -capitalize acronyms(HTTP,URL)
+- Pascal or camel case 
+  - capitalize acronyms(HTTP,URL)
 - As short as reasonable
   -longer names for longer lives
 
