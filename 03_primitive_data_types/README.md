@@ -22,6 +22,8 @@
   - Decimal (2.5)
   - Exponential(13e18 or 2E10)
   - Mixed (13.7e12).
+
+
 **3.Complex numbers**
 - Zero value is (0+0i)
 - 64 and 128 bit versions
@@ -29,6 +31,8 @@
   - complex - make complex number from two floats.
   - real - get real part as float
   -imag - get imaginary part as float
+
+
 **Text types**
 - strings
   - UTF-8
