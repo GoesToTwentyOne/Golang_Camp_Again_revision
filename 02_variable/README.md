@@ -16,7 +16,7 @@
 - Pascal or camel case 
   - capitalize acronyms(HTTP,URL)
 - As short as reasonable
-  -longer names for longer lives
+  - longer names for longer lives
 
 - [x] **Type Conversions**:
 - destinationType(variable)
