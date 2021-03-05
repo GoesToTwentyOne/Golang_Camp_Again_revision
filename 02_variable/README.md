@@ -1,5 +1,5 @@
 # **Variable Rules and regulations**
-**variable declaration**.
+** - [x] variable declaration**.
 
 - var foo int
 - var foo int = 41
